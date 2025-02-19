@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\jose.silva\\Downloads\\jackson-annotations-2.18.2.jar",
+        "c:\\Users\\jose.silva\\Downloads\\jackson-core-2.18.2.jar",
+        "c:\\Users\\jose.silva\\Downloads\\jackson-databind-2.18.2.jar"
+    ]
+}
